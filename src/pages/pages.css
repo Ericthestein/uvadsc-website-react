@@ -1,0 +1,56 @@
+.HomePage {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+.DSC-Vertical-Container-Home {
+    margin-top: 25px;
+}
+
+.Mission-Container {
+    margin-top: 25px;
+    width: 80%;
+}
+
+.Join-Us-Container {
+    margin-top: 25px;
+    width: 80%;
+}
+
+.TeamMembers {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.TeamMemberContainer {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    align-items: center;
+}
+
+.TeamMemberContainerLeft {
+    justify-content: flex-start;
+}
+
+.TeamMemberContainerRight {
+    justify-content: flex-end;
+}
+
+.TeamMemberInnerContainer {
+    width: 70%;
+    margin-top: 25px;
+}
+
+.events-message-container {
+    position: absolute;
+    width: 60%;
+    margin-top: 25px;
+    left: 20%;
+}
