@@ -9,7 +9,7 @@ const Links = {
     },
     "Discord": {
         "name": "Discord",
-        "url": "https://discord.com/invite/XvHGkeV"
+        "url": "https://discord.com/invite/b2MtB48"
     },
     "Instagram": {
         "name": "Instagram",
